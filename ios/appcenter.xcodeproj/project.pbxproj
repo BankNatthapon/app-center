@@ -1234,8 +1234,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.scbs.appcenter;
 				PRODUCT_NAME = appcenter;
-				PROVISIONING_PROFILE = "056e46ef-4333-4238-915b-dce5800fdf20";
-				PROVISIONING_PROFILE_SPECIFIER = "Adhoc Appcenter";
+				PROVISIONING_PROFILE = "bb08ebdb-dfad-412a-8a08-10b28fecf2e3";
+				PROVISIONING_PROFILE_SPECIFIER = "Scbs Appcenter";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1258,8 +1258,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.scbs.appcenter;
 				PRODUCT_NAME = appcenter;
-				PROVISIONING_PROFILE = "056e46ef-4333-4238-915b-dce5800fdf20";
-				PROVISIONING_PROFILE_SPECIFIER = "Adhoc Appcenter";
+				PROVISIONING_PROFILE = "bb08ebdb-dfad-412a-8a08-10b28fecf2e3";
+				PROVISIONING_PROFILE_SPECIFIER = "Scbs Appcenter";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
